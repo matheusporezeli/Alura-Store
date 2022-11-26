@@ -20,4 +20,4 @@ Layout mobile
 
 ## Detalhes do projeto
 
-Projeto focado no uso de css gridbox e responsividade para ajustar os grids em diversos devices.
+Projeto focado no uso de css grid e responsividade para ajustar os grids em diversos devices.
