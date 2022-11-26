@@ -1,6 +1,6 @@
 # Alura Store
 
-Site de jogos desenvolvido no curso de CSS Grid: simplificando layouts da ALura.
+Site de jogos desenvolvido no curso de CSS Grid: simplificando layouts da Alura.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
