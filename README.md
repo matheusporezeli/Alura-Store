@@ -11,12 +11,12 @@ Site de jogos desenvolvido no curso de CSS Grid: simplificando layouts da Alura.
 
 Layout desktop
 
-![desktop](https://user-images.githubusercontent.com/112051389/204072679-ca64baa3-778c-4ce5-a301-861549048860.gif)
+![desktop](https://user-images.githubusercontent.com/112051389/204072679-ca64baa3-778c-4ce5-a301-861549048860.gif#vitrinedev)
 
 
 Layout mobile
 
-![mobile](https://user-images.githubusercontent.com/112051389/204072682-723e32f3-adec-473c-987c-b59c79bea2aa.gif)
+![mobile](https://user-images.githubusercontent.com/112051389/204072682-723e32f3-adec-473c-987c-b59c79bea2aa.gif#vitrinedev)
 
 ## Detalhes do projeto
 
